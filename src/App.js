@@ -1,9 +1,10 @@
 import { React } from 'react';
 import './App.scss';
+import BarChart from './components/barChart/index';
 
-const App = () =>
+const App = (context) =>
 	<div className="App">
-		Ready to start.
+		<BarChart { ...context }/>
 	</div>;
 
 export default App;
