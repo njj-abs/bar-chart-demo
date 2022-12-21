@@ -1,13 +1,14 @@
-.App {
-	width: 100vmin;
-	height: 100vmin;
 
-}
 .container {
 	display: flex;
 	padding: 2%;
+	height: 5vmin;
 
 	.bar {
 		background: rebeccapurple;
+	}
+
+	.xLabel, .value {
+		align-self: center;
 	}
 }
