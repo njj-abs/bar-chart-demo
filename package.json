@@ -69,7 +69,7 @@
   "bugs": {
     "url": "https://github.com/Laufire/react-starter/issues"
   },
-  "homepage": "https://laufire.github.io/",
+  "homepage": "./",
   "keywords": [
     "simple",
     "react",
